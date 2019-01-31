@@ -1,0 +1,4 @@
+﻿421 RollSet"Hanabi" 1 100
+524 RollSet"Sakura" 1 300
+334 Salat"MiddleSea" 1 150
+174 Fresh"Vitamin" 1 50

@@ -1,0 +1,38 @@
+﻿<Window x:Class="SushiPay.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SushiPay"
+        mc:Ignorable="d"
+        Title="Оплата готівкою" 
+        Height="400" Width="400" 
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        >
+    <Grid Margin="10,10,9.6,5.4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Label Name="ForSum" Grid.Row="1" Foreground="Maroon" FontWeight="Bold"></Label>
+        <Label FontWeight="Bold" Grid.Row="2">Внесені кошти:</Label>
+        <TextBox Name="inputCash" Grid.Row="3" MinWidth="250" FontSize="17" PreviewTextInput="TextBoxPreviewTextInput" TextChanged="RestCash_TextChanged" Margin="5,0.4,-5,31" Grid.RowSpan="2"></TextBox>
+        <Label Grid.Row="4" FontWeight="Bold">Решта:</Label>
+        <TextBox IsReadOnly="True" Name="RestCash" FontSize="17" Grid.Row="5" MinWidth="250" Margin="5,0,-5,0.2"></TextBox>
+        <Label Name="MessagesLabel" Grid.Row="6" FontWeight="SemiBold" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="0,0,0,39.6" Width="374" Height="38">
+            <Label.Content>
+                <TextBlock Name="Messages" TextAlignment="Center" Width="370" FontSize="20" TextWrapping="Wrap" ></TextBlock>
+            </Label.Content>
+        </Label>
+        <WrapPanel Grid.Row="6" HorizontalAlignment="Right" Margin="0,124.8,10,-43" RenderTransformOrigin="0.342,0.42" Width="158">
+            <Button IsDefault="True" MinWidth="60" Margin="0,0,20,0" FontSize="15" Click="buttonOkForPay_Click">OK</Button>
+            <Button IsCancel="True" MinWidth="60" FontSize="15" Click="buttonCancelForPay_Click">Скасувати</Button>
+        </WrapPanel>
+    </Grid>
+</Window>

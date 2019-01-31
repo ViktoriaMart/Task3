@@ -1,0 +1,17 @@
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\Models\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\Models\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\Models\bin\Debug\Models.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\Models\bin\Debug\Models.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\Models\bin\Debug\Models.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\Models\bin\Debug\Models.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\Models\obj\Debug\Models.pdb

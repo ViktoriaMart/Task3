@@ -1,0 +1,77 @@
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\UnitTestSushiPay.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\UnitTestSushiPay.pdb
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\SushiPay.exe
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\SushiPay.pdb
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\SushiPay.exe.config
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.csprojResolveAssemblyReference.cache
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\UnitTestSushiPay.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\UnitTestSushiPay.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\BUS.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\SushiPay.exe
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\BUS.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\SushiPay.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\SushiPay.exe.config
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\UnitTestSushiPay.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\UnitTestSushiPay.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\BUS.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\DAO.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Models.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\BUS.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\DAO.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Models.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.csprojResolveAssemblyReference.cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\UnitTestSushiPay.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\UnitTestSushiPay.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\BUS.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\DAO.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Models.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\BUS.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\DAO.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Models.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.csprojResolveAssemblyReference.cache
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.csproj.CoreCompileInputs.cache
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.csproj.CopyComplete
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\UnitTestSushiPay\obj\Debug\UnitTestSushiPay.pdb
