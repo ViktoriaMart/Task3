@@ -1,0 +1,31 @@
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\BUS.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\BUS.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\BUS.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\BUS.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\DAO.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\Models.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\DAO.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\bin\Debug\Models.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\bin\Debug\BUS.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\bin\Debug\BUS.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\bin\Debug\DAO.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\bin\Debug\Models.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\bin\Debug\DAO.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\bin\Debug\Models.pdb
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.dll
+E:\111\1\Листопад\06.11\Task1Platform\Task1Platform\BUS\obj\Debug\BUS.pdb
